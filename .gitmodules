@@ -1,9 +1,9 @@
 [submodule "gameserver/code"]
 	path = gameserver/code
-	url = ../spn-gameserver.git
+	url = https://github.com/Bytewerk/spn-gameserver
 [submodule "relayserver/code"]
 	path = relayserver/code
-	url = ../spn-relayserver.git
+	url = https://github.com/Bytewerk/spn-relayserver
 [submodule "website/code"]
 	path = website/code
 	url = ../spn-website.git
